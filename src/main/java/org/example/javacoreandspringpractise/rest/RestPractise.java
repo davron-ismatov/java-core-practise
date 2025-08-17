@@ -16,7 +16,7 @@ public class RestPractise {
 
 
     public void send() {
-        String url = String.format(TELEGRAM_URL, "7131451198:AAEPoRg0HS33C1ixkgF-hiLCmOR4elHU9s0");
+        String url = String.format(TELEGRAM_URL, "TEST");
 
         Map<String, String> requestParams = new HashMap<>();
         requestParams.put("chat_id", "1355540158");
